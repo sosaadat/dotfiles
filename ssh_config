@@ -1,0 +1,6 @@
+# CAEN
+Host mmd
+	HostName login.engin.umich.edu
+	User mmdarden
+	Compression yes
+
